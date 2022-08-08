@@ -1,7 +1,7 @@
 import React from 'react'
 import ArrowBackIosIcon from '@material-ui/icons/ArrowBackIos';
 import { Box } from '@material-ui/core';
-import logo from '../../assets/logo.png'
+import logo from '../../assets/logo.webp'
 import LazyLoad from 'react-lazyload'
 
 export default function Header({ isMenu = false, goBack, title }) {
