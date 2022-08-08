@@ -7,10 +7,9 @@
 }
 
 .header {
-  background-image: url('/public/header.png');
+  background-image: url('./assets/header.png');
   background-position: bottom;
   background-size: cover;
   background-repeat: no-repeat;
-  /* min-height: 50vh; */
 }
 
