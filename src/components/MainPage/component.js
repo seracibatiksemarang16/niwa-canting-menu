@@ -3,11 +3,11 @@ import { categories } from './constant'
 import { Grid, Box } from '@material-ui/core'
 import Header from '../Header';
 import Footer from '../Footer';
-import mainDish from '../../assets/mainDish.png'
-import snack from '../../assets/snack.png'
-import drink from '../../assets/drink.png'
-import promo from '../../assets/promo.png'
-import additional from '../../assets/additional.png'
+import mainDish from '../../assets/mainDish.webp'
+import snack from '../../assets/snack.webp'
+import drink from '../../assets/drink.webp'
+import promo from '../../assets/promo.webp'
+import additional from '../../assets/additional.webp'
 import MenuPage from '../MenuPage';
 
 export default function MainPage() {
